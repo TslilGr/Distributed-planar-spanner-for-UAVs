@@ -1,0 +1,2 @@
+Total Average Time of a drone on air is: 21.600000
+Average number of active drones per second: 4.500000

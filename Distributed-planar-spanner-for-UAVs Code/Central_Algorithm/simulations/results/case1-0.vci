@@ -1,0 +1,124 @@
+file 4726 1598337196                                            
+version 2
+run case1-0-20200621-10:19:41-10264
+attr configname case1
+attr datetime 20200621-10:19:41
+attr experiment case1
+attr inifile omnetpp.ini
+attr isMINcriticalConnectivityStrip2 10
+attr iterationvars "$maxOnTheWayDistX=800, $maxOnTheWayDistY=800, $transmissionRange=100, $isMINcriticalConnectivityStrip2=10, $speed1=120"
+attr iterationvars2 "$maxOnTheWayDistX=800, $maxOnTheWayDistY=800, $transmissionRange=100, $isMINcriticalConnectivityStrip2=10, $speed1=120, $repetition=0"
+attr maxOnTheWayDistX 800
+attr maxOnTheWayDistY 800
+attr measurement "$maxOnTheWayDistX=800, $maxOnTheWayDistY=800, $transmissionRange=100, $isMINcriticalConnectivityStrip2=10, $speed1=120"
+attr network Net
+attr processid 10264
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 2
+attr speed1 120
+attr transmissionRange 100
+vector 8  Net.host[0].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+8	4363 9 0 0 0 0 1 0 0 0 0
+vector 22  Net.host[1].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+22	4372 10 0 0 0 0 1 0 0 0 0
+vector 36  Net.host[2].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+36	4382 10 0 0 0 0 1 0 0 0 0
+vector 50  Net.host[3].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+50	4392 10 0 0 0 0 1 0 0 0 0
+vector 64  Net.host[4].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+64	4402 10 0 0 0 0 1 0 0 0 0
+vector 78  Net.host[5].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+78	4412 10 0 0 0 0 1 0 0 0 0
+vector 92  Net.host[6].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+92	4422 10 0 0 0 0 1 0 0 0 0
+vector 106  Net.host[7].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+106	4432 11 0 0 0 0 1 0 0 0 0
+vector 120  Net.host[8].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+120	4443 11 0 0 0 0 1 0 0 0 0
+vector 134  Net.host[9].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+134	4454 11 0 0 0 0 1 0 0 0 0
+vector 145  Net.drone[0].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+145	4465 11 0 0 0 0 1 0 0 0 0
+vector 156  Net.drone[1].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+156	4476 11 0 0 0 0 1 0 0 0 0
+vector 167  Net.drone[2].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+167	4487 11 0 0 0 0 1 0 0 0 0
+vector 178  Net.drone[3].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+178	4498 11 0 0 0 0 1 0 0 0 0
+vector 189  Net.drone[4].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+189	4509 11 0 0 0 0 1 0 0 0 0
+vector 200  Net.drone[5].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+200	4520 11 0 0 0 0 1 0 0 0 0
+vector 211  Net.drone[6].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+211	4531 11 0 0 0 0 1 0 0 0 0
+vector 222  Net.drone[7].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+222	4542 11 0 0 0 0 1 0 0 0 0
+vector 233  Net.drone[8].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+233	4553 11 0 0 0 0 1 0 0 0 0
+vector 244  Net.drone[9].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+244	4564 11 0 0 0 0 1 0 0 0 0
+vector 255  Net.drone[10].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+255	4575 11 0 0 0 0 1 0 0 0 0
+vector 266  Net.drone[11].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+266	4586 11 0 0 0 0 1 0 0 0 0
+vector 277  Net.drone[12].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+277	4597 11 0 0 0 0 1 0 0 0 0
+vector 288  Net.drone[13].wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+288	4608 11 0 0 0 0 1 0 0 0 0
+vector 302  Net.cc.wlan[0].queue  queueLength:vector  ETV
+attr interpolationmode sample-hold
+attr title "queue length, vector"
+302	4619 11 0 0 0 0 1 0 0 0 0
+vector 308  Net.channelControl  "Total Number Of Drones"  ETV
+308	4630 96 51 6598 0.1 38.136123642439 4 1 4 8 22
