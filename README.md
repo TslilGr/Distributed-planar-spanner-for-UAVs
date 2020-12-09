@@ -1,4 +1,4 @@
-#Distributed-Planar-Spanner-for-UAVs
+Distributed-Planar-Spanner-for-UAVs
 
 About The Project 
 
